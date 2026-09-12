@@ -233,3 +233,6 @@ This repository serves as the official landing page for Comodo Time Machine. The
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Comodo Time Machine today!**
+
+---
+**Last updated:** 2026-09-12 06:57:43 UTC
