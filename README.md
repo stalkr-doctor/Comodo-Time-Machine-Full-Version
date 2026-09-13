@@ -235,4 +235,4 @@ This repository serves as the official landing page for Comodo Time Machine. The
 **Get the most recent version of Comodo Time Machine today!**
 
 ---
-**Last updated:** 2026-09-12 23:30:43 UTC
+**Last updated:** 2026-09-13 01:44:45 UTC
